@@ -35,7 +35,7 @@ The aim of this project is to convert raw movie data into **interactive visual i
 - Data Analysis
 - Dashboard Design
 
----
+-
 
 
 ---
